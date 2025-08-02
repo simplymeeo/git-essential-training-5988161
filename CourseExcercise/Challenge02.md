@@ -1,3 +1,1 @@
 The goal of this challenge is Create a new Markdown file in repository. Add a line to it and commit it to the local repository. Add another line to the file and commit the file. Aftwards, move the file into a folder and do a new commit. When all is done, you'll want to revert the file to the previous commit.
-
-Adding a line to local repository per instructions
